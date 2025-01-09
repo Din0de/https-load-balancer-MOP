@@ -1,6 +1,5 @@
-# https-load-balancer-MOP
+# OSPF & Secure HTTPS Lab with Cisco and Juniper Hardware
 
-**OSPF & Secure HTTPS Lab with Cisco and Juniper Hardware**
 This project showcases the configuration of OSPF routing and secure HTTPS traffic exchange 
 using real Cisco and Juniper devices. The lab environment was set up to simulate a real-world 
 network topology, ensuring secure data transmission and efficient routing within the Commons LAN.
